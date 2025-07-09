@@ -22,19 +22,6 @@
 
 ---
 
-## 📁 Folder Structure
-metaV/
-├── apps/
-│ ├── http-server/
-│ └── frontend/
-├── packages/
-│ ├── schema/
-│ ├── database/
-│ └── common/
-
-
----
-
 ## 👤 About Me
 
 Hi, I’m **Divik** — a full-stack developer passionate about WebSockets, DevOps, and Web3 (Solana).  
